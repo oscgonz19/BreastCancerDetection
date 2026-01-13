@@ -1,4 +1,5 @@
 # ML Metrics That Matter
+<img width="975" height="614" alt="image" src="https://github.com/user-attachments/assets/9f2bfae4-ac74-48f0-acb3-d6d9d65d6be5" />
 
 <p align="right">
   <a href="README_ESP.md">🇪🇸 Leer en Español</a>
@@ -324,3 +325,4 @@ ml-metrics-that-matter/
 <p align="center">
   <strong>The lesson:</strong> Metrics encode values. Choose metrics that encode <em>your</em> values.
 </p>
+
